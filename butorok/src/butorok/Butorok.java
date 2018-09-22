@@ -16,6 +16,8 @@ public class Butorok {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Asztal asztal1 = new Asztal(110, 60, 73);
+        Szek szek1 = new Szek(38, true);
     }
     
 }
